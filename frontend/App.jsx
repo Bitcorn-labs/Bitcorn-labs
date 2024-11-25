@@ -31,6 +31,24 @@ function App() {
               font={"Libre Caslon Display"}
               className ="corn_but"
               />
+
+             <MyButton
+              href="https://dragonwizards.club"
+              text= "Dragon Wizards"
+              fontWeight={"700"}
+              fontSize={"36px"}
+              font={"Libre Caslon Display"}
+              className ="corn_but"
+              />
+
+            <MyButton
+              href="https://vomxe-siaaa-aaaas-aidqq-cai.icp0.io/"
+              text= "$BOB ReHasher"
+              fontWeight={"700"}
+              fontSize={"36px"}
+              font={"Libre Caslon Display"}
+              className ="corn_but"
+              />
           </div>
       </div>
 
@@ -68,7 +86,7 @@ function App() {
           <img src={telegram} alt="Telegram" />
         </a>
 
-        <a href="https://github.com/Smugandcomfy/Bitcorn-explorer" target="_blank" rel="noopener noreferrer" className="social-media-icon">
+        <a href="https://github.com/Bitcorn-labs" target="_blank" rel="noopener noreferrer" className="social-media-icon">
           <img src={github} alt="Github" />
         </a>
       </div>
@@ -77,13 +95,12 @@ function App() {
       <div className="text-section">
         <h2>Bitcorn Labs</h2>
         <p>Developers and Project Managers on the Internet Computer</p>
-        <p>Bitcorn is a peer-2-peer internet based group of Corn Farmers Offering innovative tools for the Interent Computer & ICRC standards</p>
+        <p>Bitcorn is a peer-2-peer internet based group of Corn Farmers Offering innovative tools for the Interent Computer</p>
       </div>
 
       <div className="text-section">
         <h2>The Corn Explorer: ICPI Explorer</h2>
-        <p>ICPI tokens are genrated from icpi.xyz. These tokens are easy to construct and deploy and have become extremely popular on the internet computer. Bitcorn Labs noticed that while these tokens are icrc1 standard and fairly advanced they lacked a block explorer and other 
-          infrastructure to effectively move about the ecosystem. So this <a href="https://suemn-5aaaa-aaaap-qb62q-cai.icp0.io/" target="_blank" rel="noopener noreferrer">dapp</a> was introduced 
+        <p> CORN EXPLORER indexs ICRCs and some other standard token transactions from popular AMMS on the internet computer. <a href="https://suemn-5aaaa-aaaap-qb62q-cai.icp0.io/" target="_blank" rel="noopener noreferrer">dapp</a> was introduced 
           to produce tx URLs so tokens could be enabled on Openchat and other platforms that require a tx URL. 
           This will allow users to query holders, and transactions because services like <a href="http://icscan.io/" target="_blank" rel="noopener noreferrer">icscan.io </a> 
           and <a href="https://ic.house/ICP" target="_blank" rel="noopener noreferrer">ic.house</a> do not pick up ICPI tokens effectively. 
@@ -95,9 +112,11 @@ function App() {
         <h2>Projects & Canisters</h2>
         <p> </p>
         <ul>
-          <li>🚽 (DRC-20)</li>
+          <li>SNEED (SNS maintenance)</li>
           <li>🐓 (ICRC-1) (prev. DIP-20)</li>
           <li>🌽 (ICPI)</li>
+          <li>₿ (https://vomxe-siaaa-aaaas-aidqq-cai.icp0.io/)</li>
+          <li>🐉 (dragonwizards.club)</li>
           <li>🪡 (Needful DO: SAaS)</li>
         </ul>
       </div>
