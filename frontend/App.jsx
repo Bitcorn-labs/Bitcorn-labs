@@ -130,7 +130,7 @@ function App() {
       </div>
 
       <div className="text-section">
-        <h2>The Corn Explorer: ICPI Explorer</h2>
+        <h2>Corn explorer, Dragon Wizards, Build On $Bob</h2>
         <p>
           {" "}
           CORN EXPLORER indexs ICRCs and some other standard token transactions
@@ -156,7 +156,7 @@ function App() {
           >
             ic.house
           </a>{" "}
-          do not pick up ICPI tokens effectively. Currently, there is the
+          do not pick up some canisters effectivly. Currently, there is the
           production{" "}
           <a
             href="https://suemn-5aaaa-aaaap-qb62q-cai.icp0.io/"
@@ -165,9 +165,8 @@ function App() {
           >
             explorer{" "}
           </a>
-          The page can query balances of ALL icpi tokens via principle id and
-          can call txs and track balances and tx’s of a select number of ICPI
-          tokens.
+          The page can query balances of ALL listed tokens via principle id and
+          can call txs and track balances and tx’s of a select number of tokens.
         </p>
       </div>
 
