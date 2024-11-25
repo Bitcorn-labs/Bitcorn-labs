@@ -99,13 +99,13 @@ function App() {
       </div>
 
       <div className="text-section">
-        <h2>The Corn Explorer: ICPI Explorer</h2>
+        <h2>Corn explorer, Dragon Wizards, Build On SBob</h2>
         <p> CORN EXPLORER indexs ICRCs and some other standard token transactions from popular AMMS on the internet computer. <a href="https://suemn-5aaaa-aaaap-qb62q-cai.icp0.io/" target="_blank" rel="noopener noreferrer">dapp</a> was introduced 
           to produce tx URLs so tokens could be enabled on Openchat and other platforms that require a tx URL. 
           This will allow users to query holders, and transactions because services like <a href="http://icscan.io/" target="_blank" rel="noopener noreferrer">icscan.io </a> 
-          and <a href="https://ic.house/ICP" target="_blank" rel="noopener noreferrer">ic.house</a> do not pick up ICPI tokens effectively. 
+          and <a href="https://ic.house/ICP" target="_blank" rel="noopener noreferrer">ic.house</a> do not pick up some canisters effectivly.
           Currently, there is the production <a href="https://suemn-5aaaa-aaaap-qb62q-cai.icp0.io/" target="_blank" rel="noopener noreferrer">explorer </a> 
-          The page can query balances of ALL icpi tokens via principle id and can call txs and track balances and tx’s of a select number of ICPI tokens.</p>
+          The page can query balances of ALL listed tokens via principle id and can call txs and track balances and tx’s of a select number of tokens.</p>
       </div>
 
       <div className="text-section">
