@@ -175,7 +175,7 @@ function App() {
         <p> </p>
         <ul>
           <li>
-            SNEED (<a href="https://icsneed.com/">SNS maintenance</a>)
+            SNEED (<a href="https://sneeddao.com">SNS maintenance</a>)
           </li>
           <li>
             🐓 (ICRC-1) (prev. DIP-20) (
