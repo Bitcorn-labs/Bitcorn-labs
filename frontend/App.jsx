@@ -199,7 +199,9 @@ function App() {
           <li>
             🐉 <a href="https://dragonwizards.club">Dragon Paladin Wizards</a>
           </li>
-          <li>🪡 (Needful DO: SAaS)</li>
+          <li>
+            🪡 (<a href="https://x.com/the_needful_do">Needful DO: SAaS</a>)
+          </li>
         </ul>
       </div>
 
