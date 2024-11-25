@@ -99,7 +99,7 @@ function App() {
       </div>
 
       <div className="text-section">
-        <h2>Corn explorer, Dragon Wizards, Build On SBob</h2>
+        <h2>Corn explorer, Dragon Wizards, Build On $Bob</h2>
         <p> CORN EXPLORER indexs ICRCs and some other standard token transactions from popular AMMS on the internet computer. <a href="https://suemn-5aaaa-aaaap-qb62q-cai.icp0.io/" target="_blank" rel="noopener noreferrer">dapp</a> was introduced 
           to produce tx URLs so tokens could be enabled on Openchat and other platforms that require a tx URL. 
           This will allow users to query holders, and transactions because services like <a href="http://icscan.io/" target="_blank" rel="noopener noreferrer">icscan.io </a> 
